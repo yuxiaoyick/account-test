@@ -1,14 +1,14 @@
 
 #app[data-v-15a602f2] {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+font-family: 'Avenir', Helvetica, Arial, sans-serif;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
 }
 html[data-v-15a602f2] {
-  min-height: 100vh;
+min-height: 100vh;
 }
 *[data-v-15a602f2] {
-  transition: all .3s;
+transition: all .3s;
 }
 
 .code[data-v-79cd4862] {
@@ -30,4 +30,4 @@ to {
 *{box-sizing: border-box;}
 *::before{box-sizing: border-box;}
 *::after{box-sizing: border-box;}
-/*# sourceMappingURL=app.404934bd0f20c3cd753cc6d7613f89f9.css.map*/
+/*# sourceMappingURL=app.707fbc073095332df0f53156240e13dc.css.map*/
